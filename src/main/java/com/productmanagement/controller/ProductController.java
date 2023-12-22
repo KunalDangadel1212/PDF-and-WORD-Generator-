@@ -10,6 +10,6 @@ public class ProductController {
 
 	@GetMapping("/get")
 	public String home() {
-        return "index";
+        return "index2";
     }
 }
